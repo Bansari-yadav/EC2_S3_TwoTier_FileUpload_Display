@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+credentials
+*_instance_id.txt
+*_instance_ids.txt
+*-lt-data.json
+user-data-*.sh
+trust-policy.json
+uploader-policy.json
+viewer-policy.json
+node_modules/
+.vscode/
+.DS_Store
